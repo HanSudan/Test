@@ -1,0 +1,30 @@
+{
+  "id": "3908441",
+  "name": "icons",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16380904",
+      "name": "钱",
+      "font_class": "qian1",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "24810954",
+      "name": "钱",
+      "font_class": "qian2",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "725735",
+      "name": "钱 ",
+      "font_class": "qian",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
